@@ -1,0 +1,3 @@
+The first skill at 5 is REQUIRED!
+Please note that until your hero's first skill opens in the top five, the hero CANNOT open the second star!!!
+There are exceptions (for example: some collectors), but this rule applies to combat heroes for PvP and PvE.
